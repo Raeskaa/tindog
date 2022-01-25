@@ -12,9 +12,10 @@ h1 {
 }
 h2 {
 	font-family: "Montserrat", sans-serif;
-	font-size: 1.5rem;
+	font-size: 3.5rem;
 	line-height: 1.5;
 }
+
 h3 {
 	font-family: "Montserrat", sans-serif;
 }
@@ -89,6 +90,7 @@ p {
 	background-color: #ff4c68;
 	color: white;
 	z-index: 10;
+	padding: 2rem 0;
 }
 
 .testimonials-image {
@@ -179,4 +181,7 @@ section.pricing {
 .testimonal-text {
 	font-size: 2rem;
 	line-height: 1.5;
+}
+.fa-ul {
+	padding-left: 0;
 }
